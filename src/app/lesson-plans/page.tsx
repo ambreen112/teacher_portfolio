@@ -8,11 +8,8 @@ import {
   ChevronDownIcon,
   ClockIcon,
   UserGroupIcon,
-  AcademicCapIcon,
   BeakerIcon,
   CalculatorIcon,
-  GlobeAltIcon,
-  PaintBrushIcon,
 } from "@heroicons/react/24/outline";
 
 interface LessonPlan {
